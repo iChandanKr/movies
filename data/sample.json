@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Riddick",
+        "description": "left for dead on a sun-scorched planet, Riddick  finds himself up against alien race of predators. Activating an emergency beacon alert two ships: one carry a new breed of mercenary, the other captained by the man from Riddick's past.",
+        "duration": 119,
+        "ratings": 6.8,
+        "totalRating": 329,
+        "releaseYear": 2013,
+        "releaseDate": "2013-09-04T00:00:00Z",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "directors": [
+            "David Twohy"
+        ],
+        "coverImage": "Riddick-2013.jpg",
+        "actors": [
+            "Vin Dissel",
+            "Karl Urban",
+            "Katee Sackhoff"
+        ],
+        "price": 50
+    },
+    {
+        "name": "Mad Max: Fury Road",
+        "description": "In a post-apocalyptic wasteland, Max teams up with a mysterious woman, Furiosa, to flee from a tyrant named Immortan Joe and his army in an armored tanker truck, leading to a high-octane road battle for survival.",
+        "duration": 120,
+        "ratings": 8.1,
+        "totalRating": 916,
+        "releaseYear": 2015,
+        "releaseDate": "2015-05-07T00:00:00Z",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "directors": [
+            "George Miller"
+        ],
+        "coverImage": "Mad_Max_Fury_Road.jpg",
+        "actors": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult"
+        ],
+        "price": 60
+    },
+    {
+        "name": "Inception",
+        "description": "A skilled thief, Cobb, is offered a chance to have his criminal history erased in exchange for the seemingly impossible task of planting an idea into someone's mind.",
+        "duration": 148,
+        "ratings": 8.8,
+        "totalRating": 2152,
+        "releaseYear": 2010,
+        "releaseDate": "2010-07-16T00:00:00Z",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "coverImage": "Inception.jpg",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Ellen Page"
+        ],
+        "price": 55
+    },
+    {
+        "name": "The Matrix",
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "duration": 136,
+        "ratings": 8.7,
+        "totalRating": 2487,
+        "releaseYear": 1999,
+        "releaseDate": "1999-03-31T00:00:00Z",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "directors": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "coverImage": "The_Matrix.jpg",
+        "actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "price": 45
+    },
+    {
+        "name": "Interstellar",
+        "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
+        "duration": 169,
+        "ratings": 8.6,
+        "totalRating": 1492,
+        "releaseYear": 2014,
+        "releaseDate": "2014-11-05T00:00:00Z",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "coverImage": "Interstellar.jpg",
+        "actors": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "price": 65
+    },
+    {
+        "name": "Avatar",
+        "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "duration": 162,
+        "ratings": 7.8,
+        "totalRating": 1163,
+        "releaseYear": 2009,
+        "releaseDate": "2009-12-18T00:00:00Z",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "directors": [
+            "James Cameron"
+        ],
+        "coverImage": "Avatar.jpg",
+        "actors": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver"
+        ],
+        "price": 70
+    },
+    {
+        "name": "Blade Runner 2049",
+        "description": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
+        "duration": 164,
+        "ratings": 8.0,
+        "totalRating": 590,
+        "releaseYear": 2017,
+        "releaseDate": "2017-10-06T00:00:00Z",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "coverImage": "Blade_Runner_2049.jpg",
+        "actors": [
+            "Ryan Gosling",
+            "Harrison Ford",
+            "Ana de Armas"
+        ],
+        "price": 75
+    },
+    {
+        "name": "The Martian",
+        "description": "An astronaut becomes stranded on Mars after his team assumes him dead and must rely on his ingenuity to find a way to signal Earth that he is alive.",
+        "duration": 144,
+        "ratings": 8.0,
+        "totalRating": 840,
+        "releaseYear": 2015,
+        "releaseDate": "2015-10-02T00:00:00Z",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "directors": [
+            "Ridley Scott"
+        ],
+        "coverImage": "The_Martian.jpg",
+        "actors": [
+            "Matt Damon",
+            "Jessica Chastain",
+            "Kristen Wiig"
+        ],
+        "price": 55
+    }
+]
